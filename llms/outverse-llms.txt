@@ -1,0 +1,19 @@
+# Outverse
+
+> Outverse is an enterprise "service AI operating system" — a governed platform for deploying AI agents across complex customer-service workflows (email, chat, voice, and APIs) from a unified control center, with natural-language policies/SOPs, observability over agent decisions and escalations, and configurable model/data governance. Outverse Limited is a UK company (England & Wales) backed by Seedcamp and Wing Venture Capital.
+
+## Product
+- [Outverse](https://outverse.com): Enterprise service AI operating system — workflow orchestration across channels
+- [Voice Agents](https://outverse.com/voice): AI voice agents that verify identity, retrieve data, apply policy, and resolve calls end to end; integrates with Salesforce, Freshdesk, Genesys, Twilio, Talkdesk
+- [Jeeves case study](https://outverse.com/case-study-jeeves): Customer story
+
+## Company
+- [Contact / Sales](https://outverse.com/contact-sales): Talk to the team about AI support automation
+- [Trust Center](https://trust.outverse.com): Security posture — SOC 2 and ISO 27001 certified
+
+## Legal
+- [Website & Service Terms](https://outverse.com/terms-and-conditions)
+- [Privacy Policy](https://outverse.com/privacy-policy)
+
+## Notes
+- No public developer API, API reference, SDKs, or published OpenAPI were found at the time of enrichment (2026-07-20). The platform integrates with existing CCaaS/CRM stacks rather than exposing a public developer program.

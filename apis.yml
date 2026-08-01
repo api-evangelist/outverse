@@ -1,8 +1,16 @@
 aid: outverse
 name: Outverse
-description: Outverse is a company surfaced as a portfolio company of seedcamp, wing-venture-capital and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Outverse is an enterprise "service AI operating system" from Outverse Limited, a UK company
+  backed by Seedcamp and Wing Venture Capital. Its platform lets support and operations teams deploy
+  governed AI agents across complex customer-service workflows — email, chat, voice, and API-driven
+  actions — from a single control center. Teams define logic, policies, and human handoffs in natural
+  language SOPs rather than rigid workflow builders, and get observability over every agent decision,
+  tool call, workflow path, and escalation. Outverse integrates with existing CCaaS and CRM stacks
+  (Salesforce, Freshdesk, Genesys, Twilio, Talkdesk) and offers voice agents that verify identity,
+  retrieve data, apply policy, and resolve calls end to end. The company advertises SOC 2 and ISO 27001
+  certification and does not expose a public developer API at this time. Added to the API Evangelist
+  network as a portfolio company of Seedcamp and Wing Venture Capital.
 url: https://raw.githubusercontent.com/api-evangelist/outverse/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,11 +19,31 @@ x-backed-by:
 - wing-venture-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://outverse.com/favicon.ico
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Artificial Intelligence
+- AI Agents
+- Customer Support
+- Customer Service
+- Support Automation
+- Voice
+- Conversational AI
+- Contact Center
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +52,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://outverse.com
+  url: https://outverse.com
+- type: Support
+  url: https://outverse.com/contact-sales
+- type: GitHubOrganization
+  url: https://github.com/outverse
+- type: TermsOfService
+  url: https://outverse.com/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://outverse.com/privacy-policy
+- type: Compliance
+  url: https://trust.outverse.com
+- type: TrustCenter
+  url: security/outverse-trust-center.yml
+- type: DomainSecurity
+  url: security/outverse-domain-security.yml
+- type: LLMsTxt
+  url: llms/outverse-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1

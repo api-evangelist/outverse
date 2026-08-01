@@ -1,0 +1,16 @@
+generated: '2026-07-20'
+method: searched
+source: https://outverse.com
+url: https://trust.outverse.com
+certifications:
+- SOC 2
+- ISO 27001
+controls:
+- Data encrypted at rest and in transit
+- Customer data never used to train AI models
+evidence:
+- source: https://outverse.com
+  claim: "SOC 2 and ISO 27001 certified; data encrypted at rest and in transit; data never used for AI model training"
+- source: https://trust.outverse.com
+  claim: "Outverse Trust Center (JS-rendered; certifications surfaced on the marketing site)"
+notes: Homepage states SOC 2 and ISO 27001 certification; a dedicated Trust Center exists at trust.outverse.com (single-page app, content not machine-readable via fetch). No public API/developer program.

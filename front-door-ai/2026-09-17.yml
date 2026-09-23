@@ -1,0 +1,27 @@
+# Front Door AI Index — outverse — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: outverse
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: outverse.com
+  final_host: www.outverse.com
+  ownership: own
+  owner: outverse
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 44
+  host_score: 44
+  density: 32.86
+  words: 1339
+  tiers:
+    agentic: 9
+    core: 35
+    model: 0
+  ambiguous: 35
+  top_terms:
+    AI: 35
+    agent: 35
+    AI agent: 9

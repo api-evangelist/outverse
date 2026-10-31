@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Outverse is a company surfaced as a portfolio company of seedcamp, wing-venture-capital and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Outverse is an enterprise "service AI operating system" from Outverse Limited, a UK company backed by Seedcamp and Wing Venture Capital. Its platform lets support and operations teams deploy governed AI agents across complex customer-service workflows — email, chat, voice, and API-driven actions — from a single control center. Teams define logic, policies, and human handoffs in natural language SOPs rather than rigid workflow builders, and get observability over every agent decision, tool call, workflow path, and escalation. Outverse integrates with existing CCaaS and CRM stacks (Salesforce, Freshdesk, Genesys, Twilio, Talkdesk) and offers voice agents that verify identity, retrieve data, apply policy, and resolve calls end to end. The company advertises SOC 2 and ISO 27001 certification and does not expose a public developer API at this time. Added to the API Evangelist network as a portfolio company of Seedcamp and Wing Venture Capital.
 
-Backed by: seedcamp, wing-venture-capital — http://outverse.com
+**Areas:** Company · Artificial Intelligence · AI Agents · Customer Service · Support Automation · Voice · Conversational AI · Contact Center
+
+## Outverse on APIs.io
+
+Everything profiled for Outverse is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/outverse/](https://apis.io/providers/outverse/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Outverse Domain Security](https://apis.io/security/outverse/outverse-domain-security/)
+- [Outverse Trust Center](https://apis.io/security/outverse/outverse-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://outverse.com)
+- [Support](https://outverse.com/contact-sales)
+- [Compliance](https://trust.outverse.com)
+- [Terms of service](https://outverse.com/terms-and-conditions)
+- [Privacy policy](https://outverse.com/privacy-policy)
+- [GitHub](https://github.com/outverse)
+
+## API Evangelist rating
+
+**Kin Score 11.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 28.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/outverse/](https://apis.io/providers/outverse/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Outverse: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/outverse/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
